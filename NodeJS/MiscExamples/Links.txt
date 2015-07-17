@@ -1,0 +1,44 @@
+https://github.com/virmani/node-tutorial
+https://www.npmjs.com/
+http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/
+
+heroku.com - to setup own server
+
+http://cwbuecheler.com/web/tutorials/2014/restful-web-app-node-express-mongodb/
+http://cwbuecheler.com/web/tutorials/2013/javascript-callbacks/
+
+https://github.com/yutaodou/node-tutorial/tree/master/simple-web
+
+https://github.com/ritmatter/node-tutorial
+
+
+https://www.codementor.io/nodejs/tutorial/node-js-mysql
+https://codeforgeek.com/2015/01/nodejs-mysql-tutorial/
+
+https://github.com/smirea/ticketReservation
+
+https://github.com/kasperite/nodejsapp/
+
+https://github.com/Vinny49/node-tutorial
+
+Angular:
+https://github.com/angular-ui/ng-grid
+https://github.com/angular-ui
+
+
+
+protect code:
+https://www.npmjs.com/package/obfuscator
+https://www.ibm.com/developerworks/community/blogs/worklight/entry/obfuscating_javascript_code?lang=en
+
+
+publish code:
+
+
+Jasmine: ng-Mock
+http://www.smashingmagazine.com/2014/10/07/introduction-to-unit-testing-in-angularjs/
+https://www.airpair.com/angularjs/posts/testing-angular-with-karma
+
+https://github.com/caolvchong/mock-api
+
+
