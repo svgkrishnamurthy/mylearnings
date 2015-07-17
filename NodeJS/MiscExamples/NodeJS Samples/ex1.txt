@@ -1,0 +1,14 @@
+var Foo = function(id,name){this.id=id; this.name = name; this.greet = function(){return name;}}
+
+
+var f1 = new Foo(10,'Name');
+f1.greet();
+
+
+
+var Person = function(id, name){this.id = id; this.name = name;}
+
+
+var alice = new Person(1,'Alice')
+
+
